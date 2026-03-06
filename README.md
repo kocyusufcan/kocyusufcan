@@ -10,6 +10,3 @@ Bir fikri koda, kodu ise çalışan bir ürüne dönüştürmeyi seviyorum. Şu 
 
 ### 🛠️ Teknoloji Çantam
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQL Server](https://img.shields.io/badge/sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 📊 GitHub İstatistiklerim
-<img src="https://github-readme-stats.vercel.app/api?username=kocyusufcan&show_icons=true&theme=radical" alt="Yusuf Can's GitHub Stats" />
