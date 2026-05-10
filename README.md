@@ -4,7 +4,7 @@
 
 Bir fikri koda, kodu ise çalışan bir ürüne dönüştürmeyi seviyorum. Şu ana kadar web ve mobil dünyasında ölçeklenebilir çözümler geliştirdim.
 
-- 🛠️ **Şu an ne üzerinde çalışıyorum?** [Mail Marketing Hub](https://github.com/kocyusufcan/MailMarketingProject) projemin son dokunuşlarını yapıyorum.
+- 🛠️ **Şu an ne üzerinde çalışıyorum?** [YK-Chests](https://github.com/kocyusufcan/YK-Chests) projemin son dokunuşlarını yapıyorum.
 - 👨‍💻 **Yeteneklerim:** C#, .NET 8 API, React Native, SQL Server, Entity Framework Core.
 - 🌍 **Vizyonum:** Temiz kod (Clean Code) ve kullanıcı odaklı tasarım.
 
